@@ -18,7 +18,7 @@ Zero build dependencies — 100% native static hosting on GitHub Pages.
   - **Core Strengths**: 4-column widget grid (UI/API Automation, AI-Assisted Testing, Cloud & Resilience, CI/CD & Agile QA).
   - **Professional Experience**: History at Plato (ESDC, Nutrien, AMD Silo AI), Imperva (Cybersecurity Data Security Fabric), and Wipro.
   - **Education**: Master of Science (Western University) & Bachelor of Technology.
-  - **Direct Actions**: Instant copy-to-clipboard for Email/Phone with iOS toast alert, direct resume PDF download.
+  - **Direct Actions**: Direct email (`mailto:`) and phone (`tel:`) communication actions, direct resume PDF download.
 
 ---
 

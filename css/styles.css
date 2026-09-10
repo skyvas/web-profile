@@ -167,18 +167,6 @@ body {
   display: block;
 }
 
-.avatar-status-dot {
-  position: absolute;
-  bottom: -2px;
-  right: -2px;
-  width: 15px;
-  height: 15px;
-  border-radius: 50%;
-  background-color: var(--accent-emerald);
-  border: 3px solid var(--bg-color);
-  box-shadow: 0 0 10px rgba(16, 185, 129, 0.9);
-}
-
 .profile-meta h1 {
   font-size: 1.9rem;
   font-weight: 700;
@@ -191,28 +179,6 @@ body {
   font-size: 1.05rem;
   color: var(--text-secondary);
   margin-top: 0.35rem;
-}
-
-.status-badge {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.4rem;
-  font-size: 0.8rem;
-  font-weight: 500;
-  color: var(--accent-emerald);
-  background: rgba(16, 185, 129, 0.1);
-  padding: 0.15rem 0.6rem;
-  border-radius: var(--radius-pill);
-  border: 1px solid rgba(16, 185, 129, 0.25);
-  margin-left: 0.5rem;
-}
-
-.status-dot {
-  width: 6px;
-  height: 6px;
-  border-radius: 50%;
-  background-color: var(--accent-emerald);
-  box-shadow: 0 0 8px var(--accent-emerald);
 }
 
 /* iOS Glass Action Buttons (Squircle Social & Resume Pill) */
