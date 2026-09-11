@@ -15,6 +15,7 @@ Zero build dependencies — 100% native static hosting on GitHub Pages.
 - **Apple iOS Frosted Glass & Transparency**: Translucent cards (`backdrop-filter: blur(24px)`), ambient backlight orbs, 1px subtle hairline borders, and smooth squircles.
 - **Key Sections**:
   - **About**: Executive summary of 6+ years in QA automation, enterprise consulting, and cloud resilience.
+  - **Projects**: Showcase of open-source engineering, featuring the Playwright Automation Framework & QA Agent Scaffold.
   - **Core Strengths**: 4-column widget grid (UI/API Automation, AI-Assisted Testing, Cloud & Resilience, CI/CD & Agile QA).
   - **Professional Experience**: History at Plato (ESDC, Nutrien, AMD Silo AI), Imperva (Cybersecurity Data Security Fabric), and Wipro.
   - **Education**: Master of Science (Western University) & Bachelor of Technology.
